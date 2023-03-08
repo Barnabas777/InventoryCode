@@ -1,0 +1,7 @@
+PORT=4000
+DB_URI=mongodb+srv://inventory:inventory@cluster0.azsaajc.mongodb.net/inventory?retryWrites=true&w=majority
+JWT_SECRET=inventoryapp
+CLOUDINARY_CLOUD_NAME=dtlr1mjws
+CLOUDINARY_API_KEY=548452935382167
+CLOUDINARY_API_ESCRET=gRzGJ9riEqscGmhVChakjGTGjic
+
